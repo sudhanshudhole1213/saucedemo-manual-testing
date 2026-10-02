@@ -28,3 +28,19 @@ Modules covered: Login, Products, Cart, Checkout, Logout and Session
 ## Files
 - Manual_Testing_Project_SauceDemo.xlsx: test scenarios, test cases, bug report, RTM and test summary
 - Screenshots/: evidence for the defects
+- 
+**BUG-001: Login error text is clipped**
+
+![BUG-001](BUG-001.png)
+
+**BUG-002: problem_user shows the same image for all products**
+
+![BUG-002](BUG-002.png)
+
+**BUG-003: Checkout form overwrites typed data (problem_user)**
+
+![BUG-003](BUG-003.png)
+
+**BUG-004: Slow login (performance_glitch_user)**
+
+![BUG-004](BUG-004.png)
