@@ -43,4 +43,4 @@ Modules covered: Login, Products, Cart, Checkout, Logout and Session
 
 **BUG-004: Slow login (performance_glitch_user)**
 
-![BUG-004](BUG-004.png)
+![BUG-004](BUG=004.png)
